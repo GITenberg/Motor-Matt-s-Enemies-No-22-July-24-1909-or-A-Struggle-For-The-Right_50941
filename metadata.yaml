@@ -1,10 +1,16 @@
 _repo: Motor-Matt-s-Enemies-No-22-July-24-1909-or-A-Struggle-For-The-Right_50941
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50941-h/images/coverlarge.jpg
 creator:
   author:
     agent_name: Matthews, Stanley R.
     gutenberg_agent_id: '43601'
     url: http://www.gutenberg.org/2009/agents/43601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50941#Motor-Matt-s-Enemies-No-22-July-24-1909-or-A-Struggle-For-The-Right
 gutenberg_issued: '2016-01-16'
 gutenberg_type: Text
 identifiers:
